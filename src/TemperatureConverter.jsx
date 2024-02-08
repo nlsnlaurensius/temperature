@@ -172,7 +172,7 @@ function TemperatureConverter() {
           Convert
         </Button>
       </Box>
-      <Link to="https://nlsnlaurensius.github.io/web/#projects">
+      <Link to="https://nelsonlaurensius.vercel.app/#projects">
         <Button startIcon={<HomeIcon />} className="back-to-home-button">
           Back to Projects
         </Button>
